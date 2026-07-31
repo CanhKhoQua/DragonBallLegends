@@ -4,6 +4,10 @@ Fan-made educational Java game server source for studying private-server archite
 
 This repository is shared for learning and research purposes only. It is not affiliated with, endorsed by, or sponsored by TeaMobi, Ngoc Rong Online, Dragon Ball, or any related rights holders. Trademarks and third-party assets belong to their respective owners.
 
+## Origin & Credits
+
+This codebase originates from the Ngoc Rong Online private-server community, where it has circulated across forums/Discord servers over time without a single clearly identified original author. This repository is a cleaned-up, sanitized republish (secrets/configs/logs/binaries stripped) for educational sharing — it is not presented as original authorship. If you are the original author of any part of this code and want credit added or content removed, please open an issue.
+
 ## Public-Safe Contents
 
 - Java server source in `src/`
